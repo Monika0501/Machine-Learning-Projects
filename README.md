@@ -1,5 +1,3 @@
-# Machine-Learning-Projects
-
 # Student Performance Prediction
 
 This project uses Machine Learning (Linear Regression) to predict student final marks based on:
